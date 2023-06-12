@@ -159,45 +159,19 @@ http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001378/index.m3u8?IAS
 http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001359/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 #EXTINF:-1,tvg-id="ICS高清" tvg-name="ICS高清" tvg-logo="https://epg.112114.xyz/logo/ICS.png" group-title="其他",ICS高清
 http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001128/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
-
-#EXTINF:-1 tvg-logo="" group-title="🎞️NewTV",黑莓电影
-http://39.135.7.4:6610/000000001000/1000000004000019624/index.m3u8?Contentid=1000000004000019624&livemode=1&stbId=3&channel-id=ystenlive
-#EXTINF:-1 tvg-logo="" group-title="🎞️NewTV",黑莓电影
-http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🎞️NewTV",峨眉电影
-http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🎞️NewTV",NewTV精品体育[1920*1080]
-http://39.134.115.163:8080/PLTV/88888910/224/3221225709/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🎞️NewTV",NewTV明星大片[1920*1080]
-http://39.134.115.163:8080/PLTV/88888910/224/3221225716/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🎞️NewTV",NewTV超级电视剧
-http://39.134.115.163:8080/PLTV/88888910/224/3221225625/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🎞️NewTV",NewTV超级电视剧
-http://39.135.7.4:6610/000000001000/1000000004000024993/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="" group-title="🎞️NewTV",NewTV超级电影
-http://39.135.7.4:6610/000000001000/1000000004000002120/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="" group-title="🎞️NewTV",NewTV超级体育
-http://39.135.7.4:6610/000000001000/1000000004000007755/index.m3u8?channel-id=ystenlive&Contentid=1000000004000007755&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="" group-title="🎞️NewTV",NewTV超级综艺
-http://39.135.7.4:6610/000000001000/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="" group-title="🎞️NewTV",NewTV动作电影
-http://39.135.7.4:6610/000000001000/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="" group-title="🎞️NewTV",NewTV家庭剧场
-http://39.135.7.4:6610/000000001000/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="" group-title="🎞️NewTV",NewTV金牌综艺
-http://39.135.7.4:6610/000000001000/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="" group-title="🎞️NewTV",NewTV惊悚悬疑
-http://39.135.7.4:6610/000000001000/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="" group-title="🎞️NewTV",NewTV精品大剧
-http://39.135.7.4:6610/000000001000/1000000004000013968/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="" group-title="🎞️NewTV",NewTV精品纪录
-http://39.135.7.4:6610/000000001000/1000000004000013730/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="" group-title="🎞️NewTV",NewTV精品体育
-http://39.135.7.4:6610/000000001000/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="" group-title="🎞️NewTV",NewTV魅力潇湘
-http://39.135.7.4:6610/000000001000/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="" group-title="🎞️NewTV",NewTV明星大片
-http://39.135.7.4:6610/000000001000/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="" group-title="🎞️NewTV",NewTV炫舞未来
-http://39.135.7.4:6610/000000001000/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3
-
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="影视",CHC家庭影院
+http://tv.byr.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/5730e445c2-0-0-d7e31fe79c2ca04fb1c143d86da0c22c/index.m3u8
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="影视",CHC动作电影
+http://tv.byr.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/5b91f579ab-0-0-cf3648566956834ce07e88abed8930e7/index.m3u8
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="影视",CCTV2高清
+http://tv.byr.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/7b0299ffb8-0-0-3e1dfee91c9e35e94ea0a162759f915b/index.m3u8
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="影视",CCTV3高清
+http://tv.byr.cn/liverespath/07b0e69022b65beec844ad4a8ffb32715d3c61bd/aa80061b94-0-0-ba181c89ce12d0959b8ed7123534c5ba/index.m3u8
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="影视",CCTV4高清
+http://tv.byr.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/d2e5fb1a38-0-0-cd46312fc48c08c119345b8ff704505a/index.m3u8
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="影视",CCTV5高清
+http://tv.byr.cn/liverespath/91e0ab1edbd6ded08511208911962d5574194e6a/87f0d5246f-0-0-949e8c7043ac2f5838a8a1218dc8aa21/index.m3u8
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="影视",CCTV5高清
+http://tv.byr.cn/liverespath/426767e47a41783edc07dc78a509bc5f5ece9761/2d0ec84b68-0-0-1aa33df291eaf5a31d64bb53fece9bca/index.m3u8
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="影视",凤凰资讯
+http://tv.byr.cn/liverespath/fc18b6bd7dde1c4993fe40ec54a9330bc3380327/461e4c9198-0-0-94caa5aa6a084339e9edb8e8e055cc24/index.m3u8
