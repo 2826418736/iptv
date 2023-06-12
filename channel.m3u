@@ -325,3 +325,30 @@ http://op.nicker.asia:3222/udp/239.10.0.219:5140
 http://op.nicker.asia:3222/udp/239.10.0.221:5140
 #EXTINF:-1,咪咕体育
 http://op.nicker.asia:3222/udp/239.10.0.224:5140
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-id="106" tvg-name="CCTV4K" group-title="央视",CCTV4K
+http://159.75.85.63:5679/cctv4k.php
+#EXTINF:-1 ,1905电影台
+https://hlslive.1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8?tm=1685851501&sign=14f8b40e515a4fe310939fcaf311cb20
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" tvg-id="6245" tvg-name="CHC动作电影" group-title="数字付费",CHC动作电影
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000392?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" tvg-id="6241" tvg-name="CHC高清电影" group-title="数字付费",CHC高清电影
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000394?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" tvg-id="6246" tvg-name="CHC家庭电影" group-title="数字付费",CHC家庭电影
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000393?AuthInfo=xxx&userid=
+#EXTINF:-1 ,女神金电影
+https://openhls-tct.douyucdn2.cn/747764r51t1x5VMY.m3u8
+#EXTINF:-1 ,斗鱼电影
+https://openhls-tct.douyucdn2.cn/323876ryThMshlGE.m3u8
+#EXTINF:-1 ,4K超高清电影专区
+http://test.jlpgs.top:7000/udp/239.93.1.156:5140
+#EXTINF:-1 ,NewTV动作电影
+http://111.40.196.31:443/PLTV/88888888/224/3221225620/1.m3u8 
+#http://111.40.196.37:443/PLTV/88888888/224/3221225620/1.m3u8
+#EXTINF:-1 ,爱上4K HEVC
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000391?AuthInfo=xxx&userid=
+#EXTINF:-1 ,Loupe 4K测试
+http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-name="翡翠台" group-title="港澳及国外",翡翠台
+http://r.jdshipin.com/qClQf
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" tvg-id="6074" tvg-name="TVBS" group-title="地方",TVBS
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-36151937-36b4-42fa-9991-6f017a31b62f.m3u8
