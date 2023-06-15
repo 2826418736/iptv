@@ -352,3 +352,25 @@ http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" tvg-id="6074" tvg-name="TVBS" group-title="地方",TVBS
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-36151937-36b4-42fa-9991-6f017a31b62f.m3u8
+#EXTINF:-1 ,SiTV动漫秀场
+http://112.25.48.70/live/program/live/dmxchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV都市剧场
+http://112.25.48.70/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV欢笑剧场
+http://112.25.48.70/live/program/live/hxjchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV极速汽车
+http://112.25.48.70/live/program/live/jsqchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV魅力足球
+http://112.25.48.70/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV全纪实
+http://112.25.48.70/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV生活时尚
+http://112.25.48.70/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV新视觉
+http://112.25.48.70/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV幸福彩
+http://112.25.48.70/live/program/live/xfchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV游戏风云
+http://112.25.48.70/live/program/live/yxfyhd/4000000/mnf.m3u8
+#EXTINF:-1 ,淄博私家车广播
+https://live.ximalaya.com/radio-first-page-app/live/819/64.m3u8
