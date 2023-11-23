@@ -1,8 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1高清
 http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001022/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1高清
-http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001398/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2高清
 http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001220/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3高清
@@ -376,3 +374,11 @@ http://112.25.48.70/live/program/live/yxfyhd/4000000/mnf.m3u8
 https://live.ximalaya.com/radio-first-page-app/live/819/64.m3u8
 #EXTINF:-1 radio="true" group-title="Radio" ,北京文艺广播
 https://aod.cos.tx.xmcdn.com/group14/M0A/20/6E/wKgDY1V7PASTxANmAARgrgfDryM851.m4a
+#EXTINF:-1,tvg-id="林正英" tvg-name="林正英" group-title="轮播",林正英
+https://tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8?ratio=2000&wsSecret=c89870b7c88fc0c9f2e77d8d2caca51b&wsTime=656016e7&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%253D%253D&ctype=tars_mobile&txyp=o%253Atzeic1lt%253B&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_%2A-265_%2A&exsphd=264_500%2C264_2000%2C264_4000%2C264_6000%2C264_8000%2C&t=103&uuid=&uid=1700709756630&ver=1&seqid=17007097568095
+#EXTINF:-1,tvg-id="周星驰" tvg-name="周星驰" group-title="轮播",周星驰
+https://al.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8?ratio=2000&wsSecret=2c8a4860d7bc01117e6d239f06ca9189&wsTime=65600602&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%253D%253D&ctype=tars_mobile&txyp=o%253An4%253B&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_%2A-265_%2A&exsphd=264_500%2C264_2000%2C264_4000%2C264_6000%2C264_8000%2C&t=103&uuid=&uid=1700705424715&ver=1&seqid=17007054241515
+#EXTINF:-1,tvg-id="地下交通站" tvg-name="地下交通站" group-title="轮播",地下交通站
+https://al.hls.huya.com/src/1250011-1250011-5368756364640256-2789274572-10057-A-0-1.m3u8?ratio=2000&wsSecret=1c95f6ad3925e68ff48312607087eeab&wsTime=656008ff&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%253D%253D&ctype=tars_mobile&txyp=o%253Atyeic11%253B&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_%2A-265_%2A&exsphd=264_500%2C264_2000%2C&t=103&uuid=&uid=1700706175657&ver=1&seqid=17007061756319
+#EXTINF:-1,tvg-id="成龙" tvg-name="成龙" group-title="轮播",成龙
+https://hs.hls.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.m3u8?ratio=2000&wsSecret=e2e02035956ce815c063659de19dbc91&wsTime=656018c4&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%253D%253D&ctype=tars_mobile&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_%2A-265_%2A&exsphd=264_500%2C264_2000%2C&t=103&uuid=&uid=1700710212195&ver=1&seqid=17007102123001
